@@ -1,6 +1,3 @@
-Sure, here's a README file template for your project:
-
-```
 # Optimizing Inventory Management with AI
 
 ## Overview
@@ -47,9 +44,9 @@ and outcomes.
 - Geospatial Analysis Tools: ArcGIS, GeoPandas
 - Version Control and Collaboration: Git, Slack, Jira
 
-## Contributors
-
-- [Your Name](link-to-your-profile)
-- [Co-contributor 1](link-to-profile)
-- [Co-contributor 2](link-to-profile)
-
+## Team Cyberpunk_2
+- Deepak Astaya 
+- Yash Shikhar
+- Princy Ghetiya 
+- Mansingh Kushwah 
+- Kaushal Baghel 
